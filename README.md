@@ -1,2 +1,2 @@
-# pelicannon.github.io
-Welcome to my github repository! Here, you can see my projects, and maybe even try them out for yourself!
+# Murder at the Museum: A NATM Fan Game
+NATM.html contains the html file for the demo. If you discover any bugs or have any issues, please contact the owner of the repository and explain the problem.
